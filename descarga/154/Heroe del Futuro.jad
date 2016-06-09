@@ -1,0 +1,15 @@
+MIDlet-1: Heroe del Futuro, intro.png, HeroeDelFuturo
+MIDlet-Data-Size: 12000000
+MIDlet-Delete-Confirm: Confirme que desea borrar el juego
+MIDlet-Delete-Notify: El juego ha sido borrado correctamente
+MIDlet-Description: ¿Serás tú el héroe definitivo del futuro?
+MIDlet-Icon: intro.png
+MIDlet-Info-URL: http://HeroeDelFuturo.webs.com
+MIDlet-Install-Notify: Juego instalado correctamente
+MIDlet-Jar-Size: 12164865
+MIDlet-Jar-URL: Heroe del Futuro.jar
+MIDlet-Name: Heroe del Futuro
+MIDlet-Vendor: Freegame
+MIDlet-Version: 1.5.4
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
